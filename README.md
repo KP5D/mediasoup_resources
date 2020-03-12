@@ -7,7 +7,7 @@
 - npm:      6.14.2
 - nvm:      0.33.11
 - n:        6.3.1
-<pre/>
+</pre>
 
 ## Installing Prerequisites
 - Node.Js and NPM
