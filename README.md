@@ -1,11 +1,13 @@
 # Setting up of mediasoup demo (WebRTC)
 
 ## Prerequisites
+<pre>
 - node:     v12.16.1
 - nodejs:   v8.17.0
 - npm:      6.14.2
 - nvm:      0.33.11
 - n:        6.3.1
+<pre/>
 
 ## Installing Prerequisites
 - Node.Js and NPM
