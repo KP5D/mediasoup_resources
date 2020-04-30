@@ -27,7 +27,7 @@
 
 ## Github Examples
 - One-to-many broadcaster (most useful)
-    > https://github.com/michaelfig/mediasoup-broadcast-example\
+    > https://github.com/michaelfig/mediasoup-broadcast-example
 - Local RTP recording
     > https://github.com/Kurento/mediasoup-demos
 
